@@ -20,7 +20,7 @@ This library is generated from the AAD Graph API metadata using [Vipr] and [Vipr
 [Vipr-T4TemplateWriter]: https://github.com/msopentech/vipr-t4templatewriter
 [orc-for-ios]: https://github.com/msopentech/orc-for-ios
 
-[Using Cocoapods]: https://guides.cocoapods.org/using/using-cocoapods.html
+[Using CocoaPods]: https://guides.cocoapods.org/using/using-cocoapods.html
 [MSDN Add Common Consent]: https://msdn.microsoft.com/en-us/office/office365/howto/add-common-consent-manually
 
 ## Samples
